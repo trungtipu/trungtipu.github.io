@@ -22,7 +22,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  trungtipu
 linkedin_username: trungtipu
 facebook_username: trungtipu
-instagram_username: trungtipu
 
 
 # Build settings
@@ -32,9 +31,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
+  - blog.md
   - resume.md
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
